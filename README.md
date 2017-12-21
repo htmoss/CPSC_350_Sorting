@@ -1,6 +1,6 @@
 # Sorting
 
-Made program to sort 1000 random numbers using 4 different methods: Quick Sort, Bubble Sort, Insertion Sort, and Cocktail Sort
+Made program to sort 1000 random numbers using 4 different methods: Quick Sort, Bubble Sort, Insertion Sort, and Cocktail Sort. The code also times and compares the 4 different sorting methods
 
 # References
 
